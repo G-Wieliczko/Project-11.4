@@ -1,6 +1,5 @@
 function Phone(brand, price, color) {
 	this.brand = brand;
-	//by using this, the "brand" property of the object we create will assume the value of the brand argument
 	this.price = price;
 	this.color = color;
 }
